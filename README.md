@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/YJHRt748MW4AAAAi/celeste-fortnite-dance.gif"  />
+  <img height="200" src="celeste-fortnite-dance.gif"  />
 </div>
 
 ###
