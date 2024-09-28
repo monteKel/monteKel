@@ -55,7 +55,7 @@
 
 <h4 align="center">Lucky Chopper:</h4>
 <div align="center">
-  <img height="200" src="https://media.tenor.com/X3rMmFK2hBkAAAAi/one-piece.gif"  />
+  <img height="200" src="one-piece.gif"  />
 </div>
 
 ###
