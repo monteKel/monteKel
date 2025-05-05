@@ -23,7 +23,7 @@
 ###
 
 <p align="left">» Game Dev and aspiring Game Designer<br>» Looking for remote jobs []~(￣▽￣)~*  )<br>»Very High English Level</p>
-<p align="left"><b>»Contact me:<b> montekel@gmail.com</p><br>
+<p align="left"><b>»Contact me:<b> montekel.dev@gmail.com</p><br>
 <details>
   <summary>Check more about me :)</summary>
   
