@@ -54,5 +54,5 @@
 
 ###
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=black&right_color=purple&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=black&format=true&right_color=purple&left_text=Hello%20Visitors)
 
