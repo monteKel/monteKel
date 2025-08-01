@@ -6,7 +6,6 @@
 ###
 <p align=center><b>»Contact me:<b> montekel.dev@gmail.com</p><br>
 <div align="center">
-  [<img src="(https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)" height="40" alt="csharp logo"  />]
 
 ###
 
