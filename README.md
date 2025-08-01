@@ -1,4 +1,4 @@
-<h3 align="center">ᓚᘏᗢ Hii, I'm Kel!! let's Work Together?! (～￣▽￣)～</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=24&duration=3000&pause=1000&color=8171F7&center=true&vCenter=true&width=435&lines=Hello+there%2C+Im+Kel!+;Let's+Work+Together+%3A))](https://git.io/typing-svg)
 
 ###
 
@@ -54,5 +54,5 @@
 
 ###
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=black&format=true&right_color=purple&left_text=Hello%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=monteKel.monteKel&left_color=black&format=true&right_color=purple&left_text=Hello%20Visitors)
 
