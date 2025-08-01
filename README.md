@@ -22,12 +22,6 @@
 
 ###
 
-
-
-
-
-  
-### My Personal Information
 <details>
   <summary>More About Me</summary>
 » I have 2 cats, "Nicholas" and "Aurora" they're 5 years old and i love them :)<br><br>
@@ -35,7 +29,6 @@
 » I Have a good number of hobbies but the most common to see me doing are gym and playing a good video-game.<br><br>
 » I currently live in Brazil but I've always wanted to visit and who knows, maybe one day I'll be able to live in Japan.<br><br>
 </details>
-###
 
 ###
 
