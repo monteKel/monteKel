@@ -40,7 +40,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="celeste-fortnite-dance.gif"  />
+  <img height="200" src="Joinha_Kel.png"  />
+  <h3 align="center">Thats Me :)</h3>
 </div>
 
 ###
