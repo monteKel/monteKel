@@ -11,11 +11,11 @@
 
 <br clear="both">
 
-<h4 align="left">About Me:</h4>
+<h4 align="center">About Me:</h4>
 
 ###
 
-<p align="left">»AI and Optimization Engineer<br>» Looking for remote jobs<br>»Very High English Level</p>
+<p align="center">»AI and Optimization Engineer<br>» Looking for remote jobs<br>»Very High English Level</p>
 <details>
 
 <div align="center">
