@@ -54,9 +54,5 @@
 
 ###
 
-<h4 align="center">Lucky Chopper:</h4>
-<div align="center">
-  <img height="200" src="one-piece.gif"  />
-</div>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=black&right_color=purple&left_text=Hello%20Visitors)
 
-###
