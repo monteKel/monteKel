@@ -1,20 +1,12 @@
+###
 <h1 align=center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=24&duration=3000&pause=1000&color=8171F7&center=true&vCenter=true&width=435&lines=Hello+there%2C+Im+Kel!+;Let's+Work+Together+%3A)" alt="Typing SVG" /></a>
 </h1>
 
 ###
-
-<h4 align="left">Techs:</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
-  <img width="24" />
-  <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="40" alt="godot logo"  />
-  <img width="24" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo"  />
-</div>
+<p align=center><b>»Contact me:<b> montekel.dev@gmail.com</p><br>
+<div align="center">
+  [<img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ###
 
@@ -24,22 +16,8 @@
 
 ###
 
-<p align="left">» Game Dev and aspiring Game Designer<br>» Looking for remote jobs []~(￣▽￣)~*  )<br>»Very High English Level</p>
-<p align="left"><b>»Contact me:<b> montekel.dev@gmail.com</p><br>
+<p align="left">»AI and Optimization Engineer<br>» Looking for remote jobs<br>»Very High English Level</p>
 <details>
-  <summary>Check more about me :)</summary>
-  
-  ### My Personal Information
-  
-  » I'm 20 Years Old<br><br>
-  » I have 2 cats, "Nicholas" and "Aurora" they're 3 years old and i love them :)<br><br>
-  » I've always played all kinds of games, but I've always been fascinated by indie games, and this passion for playing made me want to create my own games, that's when I ended up discovering the world of programming and that's why I got into computer science and aspiring to a profession as a game developer.<br><br>
-  » I'm fascinated by souls-like games and my biggest dream would be to one day be able to work where my favorite game franchise originated (Dark Souls), but besides inspiration from souls-like games I'm also very inspired by games like Celeste and Hollow Knight.<br><br>
-  » I currently live in Brazil but I've always wanted to visit and who knows, maybe one day I'll be able to live in Japan.<br><br>
-  
-</details>
-
-###
 
 <div align="center">
   <img height="200" src="Joinha_Kel.png"  />
@@ -53,6 +31,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monteKel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=rose_pine&hide_border=true&order=2" height="120" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=monteKel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="120" alt="stats graph"  />
 </div>
+
+  <summary>Check more about me :)</summary>
+  
+  ### My Personal Information
+  
+  » I have 2 cats, "Nicholas" and "Aurora" they're 5 years old and i love them :)<br><br>
+  » I've always wanted work with computers, whether as a streamer, or a game dev or other million things until recently where i fell in love with IA and Machine Learning and Data Science in general.<br><br>
+  » I Have a good number of hobbies but the most common to see me doing are gym and playing a good video-game.<br><br>
+  » I currently live in Brazil but I've always wanted to visit and who knows, maybe one day I'll be able to live in Japan.<br><br>
+  
+</details>
+
+###
 
 ###
 
