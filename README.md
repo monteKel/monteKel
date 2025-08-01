@@ -31,16 +31,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=monteKel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="120" alt="stats graph"  />
 </div>
 
-<summary>Check more about me :)</summary>
+
+
   
-  ### My Personal Information
-  
-  » I have 2 cats, "Nicholas" and "Aurora" they're 5 years old and i love them :)<br><br>
-  » I've always wanted work with computers, whether as a streamer, or a game dev or other million things until recently where i fell in love with IA and Machine Learning and Data Science in general.<br><br>
-  » I Have a good number of hobbies but the most common to see me doing are gym and playing a good video-game.<br><br>
-  » I currently live in Brazil but I've always wanted to visit and who knows, maybe one day I'll be able to live in Japan.<br><br>
-  
-</details>
+### My Personal Information
+
+» I have 2 cats, "Nicholas" and "Aurora" they're 5 years old and i love them :)<br><br>
+» I've always wanted work with computers, whether as a streamer, or a game dev or other million things until recently where i fell in love with IA and Machine Learning and Data Science in general.<br><br>
+» I Have a good number of hobbies but the most common to see me doing are gym and playing a good video-game.<br><br>
+» I currently live in Brazil but I've always wanted to visit and who knows, maybe one day I'll be able to live in Japan.<br><br>
 
 ###
 
